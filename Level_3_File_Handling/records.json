@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "anees",
+        "Age": 22,
+        "Course": "btech"
+    },
+    {
+        "Name": "liza",
+        "Age": 22,
+        "Course": "mba"
+    }
+]
